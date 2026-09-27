@@ -148,7 +148,7 @@ DriftZero migrates *this* repository — it does not migrate itself.
 
 | Field | Value |
 |-------|-------|
-| Baseline commit | `ac06fc0b3ad23ca9f6082c9627e6460cdb4c8d02` |
+| Baseline commit | `eaaaecc536b4f58688ae547d3d5b74051277b7cc` |
 | Branch | `main` |
 | Tests | 43 passed / 0 failed |
 | Startup | OK (`/api/health` returns 200) |
